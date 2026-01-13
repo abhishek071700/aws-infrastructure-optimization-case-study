@@ -79,6 +79,7 @@ aws-infrastructure-optimization-case-study/
     ├── ec2-rightsizing-analysis.md
     ├── reserved-instance-analysis.md
     └── security-recommendations.md
+```
 
 
 ---
